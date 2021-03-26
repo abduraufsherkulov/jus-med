@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jus-med/static/css/main.8be29491.chunk.css",
-    "main.js": "/jus-med/static/js/main.1fa63a39.chunk.js",
-    "main.js.map": "/jus-med/static/js/main.1fa63a39.chunk.js.map",
+    "main.css": "/jus-med/static/css/main.86ff3a5b.chunk.css",
+    "main.js": "/jus-med/static/js/main.cfd7b9c7.chunk.js",
+    "main.js.map": "/jus-med/static/js/main.cfd7b9c7.chunk.js.map",
     "runtime-main.js": "/jus-med/static/js/runtime-main.4d6bc9eb.js",
     "runtime-main.js.map": "/jus-med/static/js/runtime-main.4d6bc9eb.js.map",
     "static/js/2.7b3f8e1e.chunk.js": "/jus-med/static/js/2.7b3f8e1e.chunk.js",
     "static/js/2.7b3f8e1e.chunk.js.map": "/jus-med/static/js/2.7b3f8e1e.chunk.js.map",
     "index.html": "/jus-med/index.html",
-    "static/css/main.8be29491.chunk.css.map": "/jus-med/static/css/main.8be29491.chunk.css.map",
+    "static/css/main.86ff3a5b.chunk.css.map": "/jus-med/static/css/main.86ff3a5b.chunk.css.map",
     "static/js/2.7b3f8e1e.chunk.js.LICENSE.txt": "/jus-med/static/js/2.7b3f8e1e.chunk.js.LICENSE.txt",
     "static/media/styles.less": "/jus-med/static/media/dmserifdisplay-regular-webfont.f07f3e2e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4d6bc9eb.js",
     "static/js/2.7b3f8e1e.chunk.js",
-    "static/css/main.8be29491.chunk.css",
-    "static/js/main.1fa63a39.chunk.js"
+    "static/css/main.86ff3a5b.chunk.css",
+    "static/js/main.cfd7b9c7.chunk.js"
   ]
 }
